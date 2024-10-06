@@ -1,0 +1,8 @@
+.vscode
+Icon\r
+.DS_Store
+*.exe
+*.out
+*.app
+tempCodeRunnerFile.cpp
+/binaries
